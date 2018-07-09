@@ -46,7 +46,9 @@ h2 {
     transition: transform 0.5s;
     text-shadow: 0 0 5px #01579b;
 }
-
+#Egypt {
+    background-color: #03a9f4;
+}
 #florida {
     background-color: #03a9f4;
 }
